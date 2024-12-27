@@ -26,8 +26,8 @@
 .rstudio-themes-flat.ace_editor_theme .profvis-flamegraph,
 .rstudio-themes-flat.ace_editor_theme,
 .rstudio-themes-flat .ace_editor_theme {
-  background-color: var(--editor-background);
-  color: var(--editor-foreground);
+  background-color: #000000;
+  color: #DEDEDE;
 }
 
 .ace_cursor {
@@ -105,7 +105,7 @@
 .ace_entity.ace_name.ace_function,
 .ace_support.ace_function,
 .ace_variable {
-  color: #7AA6DA
+  color: #C397D8
 }
 .ace_support.ace_class,
 .ace_support.ace_type {
